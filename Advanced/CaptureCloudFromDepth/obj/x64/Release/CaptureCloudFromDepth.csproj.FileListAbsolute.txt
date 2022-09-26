@@ -1,0 +1,12 @@
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.AssemblyReference.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.SuggestedBindingRedirects.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.ShowMap.resources
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.Resource1.resources
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.GenerateResource.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.CoreCompileInputs.cache
+C:\Users\mech-mind\Desktop\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.AssemblyReference.cache
+C:\Users\mech-mind\Desktop\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.SuggestedBindingRedirects.cache
+C:\Users\mech-mind\Desktop\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.ShowMap.resources
+C:\Users\mech-mind\Desktop\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.Resource1.resources
+C:\Users\mech-mind\Desktop\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.GenerateResource.cache
+C:\Users\mech-mind\Desktop\source\Advanced\captureCloudFromDepth\obj\x64\Release\CaptureCloudFromDepth.csproj.CoreCompileInputs.cache

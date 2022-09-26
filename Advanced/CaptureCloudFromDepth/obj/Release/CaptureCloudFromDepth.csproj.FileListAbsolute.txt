@@ -1,0 +1,12 @@
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.csproj.AssemblyReference.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.csproj.SuggestedBindingRedirects.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.ShowMap.resources
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.Resource1.resources
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.csproj.GenerateResource.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.csproj.CoreCompileInputs.cache
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Build\CaptureCloudFromDepth.exe.config
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Build\CaptureCloudFromDepth.exe
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Build\CaptureCloudFromDepth.pdb
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.csproj.CopyComplete
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.exe
+D:\mmind\mecheye_csharp_samples-master\mecheye_csharp_samples-master\source\Advanced\captureCloudFromDepth\obj\Release\CaptureCloudFromDepth.pdb
